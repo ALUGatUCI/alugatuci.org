@@ -1,0 +1,205 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Ubuntu", sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  max-width: 50vw;
+}
+
+p,
+ul {
+  font-size: 1.25rem;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+table {
+  max-width: 70%;
+  border: 2px solid #fff;
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0 auto;
+  background: transparent;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+th,
+td {
+  border: 1px solid #fff;
+  padding: 1vw;
+  font-size: 1.25rem;
+  background: transparent;
+}
+
+hr {
+  max-width: 50vw;
+  border-top: 1px solid #fff;
+}
+
+a {
+  color: #0065a5;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffc924;
+}
+
+#news {
+  font-size: 2rem;
+  color: yellow;
+}
+
+.topnav {
+  background: #000;
+  display: flex;
+  justify-content: center;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  padding: 1.5vw 2vw;
+  font-size: 2vw;
+}
+
+.topnav a:hover {
+  background: #ddd;
+  color: #000;
+}
+
+.topnav a.active {
+  background: #0065a5;
+  color: #ffc924;
+}
+
+.center-logo,
+.assemble-img {
+  display: block;
+  margin: 0 auto;
+}
+
+.team-row {
+  display: flex;
+  max-width: 80vw;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.team-row table {
+  width: 35vw;
+}
+
+.img-cell {
+  text-align: center;
+}
+
+.assemble-img {
+  max-width: 50vw;
+  width: 100%;
+  height: auto;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 1vw 0;
+  border: none;
+  border-radius: 0.5vw;
+  font-weight: bold;
+  text-align: center;
+  margin-top: auto;
+}
+
+.btn.discord {
+  background: #5865f2;
+  color: #fff;
+}
+
+.btn.github {
+  background: #fff;
+  color: #000;
+}
+
+.btn.instagram {
+  background-color: #f940d6;
+  color: #fff
+}
+
+.btn.bluesky {
+  background-color: #0b86fe;
+  color: #fff
+}
+
+.btn.mastodon {
+  background-color: #6261f9;
+  color: #fff
+}
+
+.btn.calendar {
+  background: #388e3c;
+  color: #fff;
+}
+
+.calendar-container {
+  display: flex;
+  justify-content: center;
+}
+
+.calendar-iframe {
+  border: 0;
+}
+
+.flex-col-bottom {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 250px;
+}
+
+@media (max-width: 900px) {
+  h1,
+  h2,
+  h3,
+  p,
+  ul,
+  hr,
+  .assemble-img {
+    max-width: 95vw;
+  }
+  .team-row {
+    flex-direction: column;
+    align-items: center;
+  }
+  table {
+    width: 90vw;
+    min-width: 0;
+  }
+}
+
+.cards-container {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr; /* defaults the container to single column */
+}
