@@ -203,3 +203,38 @@ a:visited {
   gap: 1.5rem;
   grid-template-columns: 1fr; /* defaults the container to single column */
 }
+
+.team-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+  text-align: left;
+}
+.team-table td {
+  vertical-align: top;
+  padding: 4px 8px;
+  border: none;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .team-table,
+  .team-table tr,
+  .team-table td {
+    display: block;
+    width: 100%;
+    border: none !important;
+    text-align: center !important;
+  }
+  .team-table td[rowspan] {
+    width: 100% !important;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .team-table img {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 350px;
+    margin: 0 auto;
+  }
+}
