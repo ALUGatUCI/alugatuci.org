@@ -152,8 +152,8 @@ a:visited {
   color: #fff
 }
 
-.btn.mastodon {
-  background-color: #6261f9;
+.btn.youtube {
+  background-color: #FF0000;
   color: #fff
 }
 
@@ -204,13 +204,13 @@ a:visited {
   grid-template-columns: 1fr; /* defaults the container to single column */
 }
 
-.team-table {
+.list-table {
   width: 650px;
   border-collapse: collapse;
   border: none;
   text-align: left;
 }
-.team-table td {
+.list-table td {
   vertical-align: top;
   padding: 4px 8px;
   border: none;
@@ -218,20 +218,20 @@ a:visited {
 }
 
 @media (max-width: 600px) {
-  .team-table,
-  .team-table tr,
-  .team-table td {
+  .list-table,
+  .list-table tr,
+  .list-table td {
     display: block;
     width: 100%;
     border: none !important;
     text-align: center !important;
   }
-  .team-table td[rowspan] {
+  .list-table td[rowspan] {
     width: 100% !important;
     text-align: center;
     margin-bottom: 12px;
   }
-  .team-table img {
+  .list-table img {
     width: 100% !important;
     height: auto !important;
     max-width: 350px;
