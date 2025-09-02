@@ -202,6 +202,10 @@ a:visited {
     width: 90vw;
     min-width: 0;
   }
+
+  .btn-involved {
+    padding: 1rem 0;
+  }
 }
 
 .cards-container {
