@@ -132,6 +132,12 @@ a:visited {
   margin-top: auto;
 }
 
+.btn-involved {
+  margin-top: 1rem;
+  max-width: 600px;
+  display: inline-block;
+}
+
 .btn.discord {
   background: #5865f2;
   color: #fff;
