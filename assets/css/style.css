@@ -163,6 +163,26 @@ a:visited {
   color: #fff
 }
 
+.btn.discord:hover {
+  background: #464dd3;
+}
+
+.btn.github:hover {
+  background: #dfe2e4;
+}
+
+.btn.instagram:hover {
+  background-color: #e138c5;
+}
+
+.btn.bluesky:hover {
+  background-color: #0570e2;
+}
+
+.btn.youtube:hover {
+  background-color: #cd0101;
+}
+
 .btn.calendar {
   background: #388e3c;
   color: #fff;
