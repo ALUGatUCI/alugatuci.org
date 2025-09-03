@@ -60,7 +60,7 @@ function insertWrapper() {
         document.body.insertAdjacentHTML("beforeend", `
             <hr>
             <p>Made with ❤️ by Linux users, for Linux users </p>
-            <p>Last updated: August 31st, 2025</p>
+            <p>Last updated: September 2nd, 2025</p>
         `);
     });
 }
