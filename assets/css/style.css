@@ -132,6 +132,12 @@ a:visited {
   margin-top: auto;
 }
 
+.btn-involved {
+  margin-top: 1rem;
+  max-width: 600px;
+  display: inline-block;
+}
+
 .btn.discord {
   background: #5865f2;
   color: #fff;
@@ -155,6 +161,26 @@ a:visited {
 .btn.youtube {
   background-color: #FF0000;
   color: #fff
+}
+
+.btn.discord:hover {
+  background: #464dd3;
+}
+
+.btn.github:hover {
+  background: #dfe2e4;
+}
+
+.btn.instagram:hover {
+  background-color: #e138c5;
+}
+
+.btn.bluesky:hover {
+  background-color: #0570e2;
+}
+
+.btn.youtube:hover {
+  background-color: #cd0101;
 }
 
 .btn.calendar {
@@ -195,6 +221,10 @@ a:visited {
   table {
     width: 90vw;
     min-width: 0;
+  }
+
+  .btn-involved {
+    padding: 1rem 0;
   }
 }
 
