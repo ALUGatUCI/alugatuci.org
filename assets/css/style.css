@@ -247,6 +247,15 @@ a:visited {
   text-align: left;
 }
 
+.group-photo-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  border: 2px solid #fff;
+}
+
 @media (max-width: 600px) {
   .list-table,
   .list-table tr,
