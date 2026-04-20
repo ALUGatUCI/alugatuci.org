@@ -283,9 +283,12 @@ a:visited {
     max-width: 350px;
     margin: 0 auto;
   }
-  .group-photo {
-      max-width: 100%;
-      height: auto;
-      margin: 0 auto;
-  }
+}
+
+@media (max-width: 900px) {
+    .group-photo {
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
 }
