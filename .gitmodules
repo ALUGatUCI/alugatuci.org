@@ -1,0 +1,3 @@
+[submodule "alugatuci/themes/ananke"]
+	path = alugatuci/themes/ananke
+	url = https://github.com/gohugo-ananke/ananke
