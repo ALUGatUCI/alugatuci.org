@@ -5,6 +5,10 @@ header img {
   max-width: 4rem;
 }
 
-.bg-alug-blue {
-  background-color: #1a1a2e;
+.pb7 {
+    background-color: #1a1a2e;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
 }

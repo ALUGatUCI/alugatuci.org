@@ -1,3 +1,10 @@
++++
+title = 'Anteater Linux User Group'
+featured_image = 'images/group_photo.jpg'
++++
+
+![Group Photo](images/assemble.webp)
+
 # Welcome to the Anteater Linux User Group at UC Irvine!
 
 ALUG@UCI is a community for Linux users at UC Irvine. We bring everyone interested in Linux and open-source together and provide a platform for learning and sharing knowledge.

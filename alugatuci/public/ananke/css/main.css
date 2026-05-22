@@ -1507,7 +1507,7 @@ code,
 .bg-white-80 {
   background-color: rgba(255, 255, 255, .8);
 }
-.bg-white-70 {pb7
+.bg-white-70 {
   background-color: rgba(255, 255, 255, .7);
 }
 .bg-white-60 {
@@ -7272,8 +7272,17 @@ header img {
   width: 50%;
   max-width: 4rem;
 }
-.bg-alug-blue {
+.pb7 {
   background-color: #1a1a2e;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: white;
 }
 /*! TACHYONS v4.12.0 | http://tachyons.io */
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
