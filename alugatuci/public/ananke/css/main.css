@@ -1507,7 +1507,7 @@ code,
 .bg-white-80 {
   background-color: rgba(255, 255, 255, .8);
 }
-.bg-white-70 {
+.bg-white-70 {pb7
   background-color: rgba(255, 255, 255, .7);
 }
 .bg-white-60 {
@@ -7267,6 +7267,13 @@ pre {
 }
 .nested-links a {
   overflow-wrap: break-word;
+}
+header img {
+  width: 50%;
+  max-width: 4rem;
+}
+.bg-alug-blue {
+  background-color: #1a1a2e;
 }
 /*! TACHYONS v4.12.0 | http://tachyons.io */
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */

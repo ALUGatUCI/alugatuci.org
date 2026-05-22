@@ -1,0 +1,10 @@
+/* ALUG@UCI custom styles. Bundled into the theme CSS via hugo.toml — survives every rebuild. */
+
+header img {
+  width: 50%;
+  max-width: 4rem;
+}
+
+.bg-alug-blue {
+  background-color: #1a1a2e;
+}
