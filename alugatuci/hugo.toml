@@ -1,4 +1,4 @@
 baseURL = 'https://alugatuci.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'ALUG@UCI'
 theme = 'ananke'
