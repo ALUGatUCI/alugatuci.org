@@ -7275,13 +7275,14 @@ header img {
 .pb7 {
   background-color: #1a1a2e;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+body {
+  color: white;
+}
+.mid-gray,
+.dark-gray,
+.gray,
+.silver,
+.light-silver {
   color: white;
 }
 /*! TACHYONS v4.12.0 | http://tachyons.io */

@@ -9,6 +9,16 @@ header img {
     background-color: #1a1a2e;
 }
 
-h1, h2, h3, h4, h5, h6, p {
-    color: white;
+/* All text white by default */
+body {
+  color: white;
+}
+
+/* The theme tints some text with gray/silver utility classes — override those too */
+.mid-gray,
+.dark-gray,
+.gray,
+.silver,
+.light-silver {
+  color: white;
 }
