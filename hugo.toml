@@ -3,6 +3,7 @@ locale = 'en-us'
 title = 'Anteater Linux User Group'
 theme = 'ananke'
 disableKinds = ['taxonomy', 'term', 'RSS']
+relativeURLs = true
 
 [params]
 site_logo = "images/alug-logo.png"
