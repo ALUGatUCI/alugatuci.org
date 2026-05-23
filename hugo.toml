@@ -7,7 +7,9 @@ relativeURLs = true
 
 [params]
 site_logo = "images/alug-logo.png"
+favicon = "images/ALUG@UCI_icon.png"
 
 [params.ananke]
 custom_css = ["custom.css"]
 show_recent_posts = false
+
