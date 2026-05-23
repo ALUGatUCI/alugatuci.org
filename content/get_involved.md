@@ -22,7 +22,7 @@ Follow us on Instagram to stay updated with the latest content and announcements
 
 {{< instagram_button >}}
 
-![GitHub](/images/socials/gitHub.webp)
+![GitHub](/images/socials/github.webp)
 
 ### GitHub
 
