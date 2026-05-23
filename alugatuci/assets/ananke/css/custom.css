@@ -25,12 +25,12 @@ body {
 }
 
 /* Team photos on /about_us/ — sized uniformly */
-.page-about_us img {
+.page-about main img {
   width: 350px;
   height: auto;
 }
 
-.page-get_involved img {
+.page-get_involved main img {
     width: 75px;
     height: auto;
 }
