@@ -1,0 +1,41 @@
+/* ALUG@UCI custom styles. Bundled into the theme CSS via hugo.toml — survives every rebuild. */
+
+header img {
+  width: 50%;
+  max-width: 4rem;
+}
+
+.pb7 {
+    background-color: #1a1a2e;
+}
+
+/* All text white by default */
+body {
+  color: white;
+  align-items: center;
+}
+
+/* The theme tints some text with gray/silver utility classes — override those too */
+.mid-gray,
+.dark-gray,
+.gray,
+.silver,
+.light-silver {
+  color: white;
+}
+
+/* Team photos on /about_us/ — sized uniformly */
+.page-about main img {
+  width: 350px;
+  height: auto;
+}
+
+.page-get_involved main img {
+    width: 75px;
+    height: auto;
+}
+
+/* Center all content on every page */
+main {
+  text-align: center;
+}

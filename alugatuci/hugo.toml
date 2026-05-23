@@ -1,0 +1,12 @@
+baseURL = 'https://alugatuci.org/'
+locale = 'en-us'
+title = 'Anteater Linux User Group'
+theme = 'ananke'
+disableKinds = ['taxonomy', 'term', 'RSS']
+
+[params]
+site_logo = "images/alug-logo.png"
+
+[params.ananke]
+custom_css = ["custom.css"]
+show_recent_posts = false
