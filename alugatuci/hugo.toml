@@ -1,6 +1,6 @@
 baseURL = 'https://alugatuci.org/'
 locale = 'en-us'
-title = 'ALUG@UCI'
+title = 'Anteater Linux User Group'
 theme = 'ananke'
 disableKinds = ['taxonomy', 'term', 'RSS']
 
