@@ -5,5 +5,7 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/about_us/</loc>
+  </url><url>
+    <loc>http://localhost:1313/get_involved/</loc>
   </url>
 </urlset>

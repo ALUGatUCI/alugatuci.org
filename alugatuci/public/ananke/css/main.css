@@ -7270,6 +7270,7 @@ pre {
 }
 header img {
   width: 50%;
+  max-width: 4rem;
 }
 .pb7 {
   background-color: #1a1a2e;
@@ -7287,6 +7288,10 @@ body {
 }
 .page-about_us img {
   width: 350px;
+  height: auto;
+}
+.page-get_involved img {
+  width: 75px;
   height: auto;
 }
 main {
