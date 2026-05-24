@@ -6,13 +6,13 @@ featured_image = 'images/group_photo.jpg'
 
 # Welcome to the Anteater Linux User Group at UC Irvine!
 
-ALUG@UCI is a community for Linux users at UC Irvine. We bring everyone interested in Linux and open-source together and provide a platform for learning and sharing knowledge.
+ALUG@UCI is a community-driven group of Linux and open source enthusiasts
+at UC Irvine. We provide plenty of opportunities, from sharing knowledge and collaborating on projects to socializing and networking.
 
-[Join our Discord today!](https://discord.com/invite/GXXcxTXdf9)
+{{<instagram_button>}}
+{{<discord_button>}}
 
-# Our Activities
-
-We host regular meetings to discuss Linux, open source technologies, and related topics. Members collaborate on projects, share knowledge, and enjoy social events together.
+{{<github_button>}}
 
 # Meeting Schedule
 
