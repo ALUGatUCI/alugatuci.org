@@ -11,7 +11,6 @@ at UC Irvine. We provide plenty of opportunities, from sharing knowledge and col
 
 {{<instagram_button>}}
 {{<discord_button>}}
-
 {{<github_button>}}
 
 # Meeting Schedule
