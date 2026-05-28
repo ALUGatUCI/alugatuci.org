@@ -9,9 +9,9 @@ featured_image = 'images/group_photo.jpg'
 ALUG@UCI is a community-driven group of Linux and open source enthusiasts
 at UC Irvine. We provide plenty of opportunities, from sharing knowledge and collaborating on projects to socializing and networking.
 
-{{<instagram_button>}}
 {{<discord_button>}}
-{{<github_button>}}
+
+{{<forgejo_button>}}
 
 # Meeting Schedule
 
