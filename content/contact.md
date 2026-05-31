@@ -9,7 +9,7 @@ If you have an inquiry, please feel free to reach out to us with the following c
 
 For general inquiries, please reach out to our email
 
-[info@alugatuci.org](mailto:alugatuci@gmail.com)
+[contact@alugatuci.org](mailto:contact@alugatuci.org)
 
 ## President Contact
 

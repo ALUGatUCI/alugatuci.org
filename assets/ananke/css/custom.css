@@ -1,8 +1,8 @@
 /* ALUG@UCI custom styles. Bundled into the theme CSS via hugo.toml — survives every rebuild. */
 
 header img {
-  width: 50%;
-  max-width: 4rem;
+  max-width: 10rem;
+  height: auto;
 }
 
 .pb7 {
@@ -13,6 +13,11 @@ header img {
 body {
   color: white;
   align-items: center;
+}
+
+/* Match the dark bg so any gap below the header doesn't flash near-white */
+body.bg-near-white {
+  background-color: #1a1a2e;
 }
 
 /* The theme tints some text with gray/silver utility classes — override those too */

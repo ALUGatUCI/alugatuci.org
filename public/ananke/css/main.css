@@ -7269,8 +7269,8 @@ pre {
   overflow-wrap: break-word;
 }
 header img {
-  width: 50%;
-  max-width: 4rem;
+  max-width: 10rem;
+  height: auto;
 }
 .pb7 {
   background-color: #1a1a2e;
@@ -7278,6 +7278,9 @@ header img {
 body {
   color: white;
   align-items: center;
+}
+body.bg-near-white {
+  background-color: #1a1a2e;
 }
 .mid-gray,
 .dark-gray,
