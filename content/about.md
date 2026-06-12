@@ -82,51 +82,28 @@ Acer Swift Go 14
 
 Accidentally ran "rm -rf" on my home directory during my first year of linux 🙁
 
-## Treasurer
-![Ashley Pock](/images/team/Ashley_Pock.png)
+## Project Coordinator & Interim Treasurer
+![Albert Duong](/images/team/albert_d.jpg)
 
 **Name**
 
-Ashley Pock
+Albert Duong
 
 **Major**
 
-Computer Science and Engineering B.S.
+Software Engineering B.S.
 
 **Preferred Distro**
 
-Ubuntu (WSL)
+Arch Linux
 
 **Device(s)**
 
-Thinkpad & Netbook
+Dell Latitude
 
 **Fun Fact**
 
-I enjoy learning about the stock market
-
-## Public Relations
-![Jonas Smith](/images/team/jonas_s.jpeg)
-
-**Name**
-
-Jonas Smith
-
-**Major**
-
-Material Science and Engineering B.S.
-
-**Preferred Distro**
-
-None in particular
-
-**Device(s)**
-
-Thinkpad with Lubuntu & MSI with Fedora
-
-**Fun Fact**
-
-I like to cook in my free time and I really like cooking chicken
+I have a small family of treecko plushies
 
 ## Public Relations
 ![Ikechi Ezekwe](/images/team/Ikechi.jpg)

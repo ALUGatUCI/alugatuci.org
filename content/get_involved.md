@@ -31,6 +31,8 @@ Follow us on Instagram to stay updated with the latest content and announcements
 
 Our Forgejo page is where you can find our latest projects and contribute to them.
 
+{{< forgejo_button >}}
+
 ![GitHub](/images/socials/github.webp)
 
 ### GitHub
