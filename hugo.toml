@@ -16,3 +16,7 @@ show_recent_posts = false
 [[menu.main]]
 name = "Projects"
 url = "https://git.alugatuci.org/"
+
+[[menu.main]]
+name = "OpsJam"
+url = "https://hack.alugatuci.org/"
