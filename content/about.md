@@ -49,7 +49,7 @@ Computer Science and Engineering B.S.
 
 **Preferred Distro**
 
-Artix Linux
+Fedora
 
 **Device(s)**
 
