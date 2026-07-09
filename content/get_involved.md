@@ -15,6 +15,14 @@ Our Discord server is the main hub for club news, updates, and discussions. Conn
 
 {{< discord_button >}}
 
+![LinkedIn](/images/socials/linkedin.png)
+
+### LinkedIn
+
+We post announcements and updates on our LinkedIn, so follow us to stay updated!
+
+{{< linkedin_button >}}
+
 ![Instagram](/images/socials/Instagram.png)
 
 ### Instagram
