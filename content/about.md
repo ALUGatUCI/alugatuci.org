@@ -60,11 +60,11 @@ PC & Thinkpad
 I know 6 different programming languages!
 
 ## Secretary
-![Cole Saldanha](/images/team/cole_s.jpeg)
+![Mark Valkin](/images/team/mark_v.webp)
 
 **Name**
 
-Cole Saldanha
+Mark Valkin
 
 **Major**
 
@@ -72,15 +72,15 @@ Computer Science B.S.
 
 **Preferred Distro**
 
-Debian
+Fedora (Asahi)
 
 **Device(s)**
 
-Acer Swift Go 14
+M1 Mac
 
 **Fun Fact**
 
-Accidentally ran "rm -rf" on my home directory during my first year of linux 🙁
+I play a video game from 1987
 
 ## Project Coordinator & Interim Treasurer
 ![Albert Duong](/images/team/albert_d.jpg)
@@ -145,7 +145,7 @@ CachyOS
 
 **Device(s)**
 
-Thinkpad E14 & Gaming PC
+Thinkpad E14 Gen 4 (Ubuntu) & Desktop Gaming PC (CachyOS)
 
 **Fun Fact**
 
