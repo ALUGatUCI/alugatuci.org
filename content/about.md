@@ -105,7 +105,7 @@ Dell Latitude
 
 I have a small family of treecko plushies
 
-## Public Relations #1
+## Public Relations
 ![Ikechi Ezekwe](/images/team/Ikechi.jpg)
 
 **Name**
@@ -127,26 +127,3 @@ Thinkpad X1 Nano Gen 1 with Arch Linux (Sway as my WM)
 **Fun Fact**
 
 I'm a huge rhythm gamer with my favorite being sound voltex (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
-
-## Public Relations #2
-![Ikechi Ezekwe](/images/team/tobias_m.png)
-
-**Name**
-
-Tobias Maramba
-
-**Major**
-
-Computer Science B.S.
-
-**Preferred Distro**
-
-CachyOS
-
-**Device(s)**
-
-Thinkpad E14 Gen 4 (Ubuntu) & Desktop Gaming PC (CachyOS)
-
-**Fun Fact**
-
-I have an identical twin brother
