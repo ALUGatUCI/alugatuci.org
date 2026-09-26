@@ -148,3 +148,79 @@ main {
   margin: 0;
   opacity: 0.85;
 }
+
+/* Social link cards on /get_involved/socials/ — {{< socials >}} / {{< social >}} shortcodes.
+   Shares the card look with the officer cards above. */
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0 3rem;
+  text-align: left;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 13.5rem;
+  max-width: 100%;
+  background-color: #23233d;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.social-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 10;
+  background-color: #2d2d4d;
+}
+
+.social-logo img {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1rem;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.card-text {
+  flex: 1;
+  margin: 0.4rem 0 1rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  opacity: 0.8;
+}
+
+.social-button {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.social-button:hover {
+  opacity: 0.85;
+}

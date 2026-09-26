@@ -1,0 +1,15 @@
+{{- $color := .Get "color" | compare.Default "#5865F2" -}}
+{{- $textColor := .Get "text_color" | compare.Default "white" -}}
+<div class="card social-card">
+  <div class="social-logo">
+    <img src="{{ .Get "image" | urls.RelURL }}" alt="{{ .Get "name" }} logo" loading="lazy" />
+  </div>
+  <div class="card-info">
+    <p class="card-title">{{ .Get "name" }}</p>
+    <p class="card-text">{{ .Inner | strings.TrimSpace }}</p>
+    <a class="social-button no-underline" href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer"
+       style="background-color: {{ $color | safe.CSS }}; color: {{ $textColor | safe.CSS }};">
+      {{ .Get "button" }} &rarr;
+    </a>
+  </div>
+</div>

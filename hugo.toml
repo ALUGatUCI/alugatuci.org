@@ -13,17 +13,18 @@ favicon = "images/ALUG@UCI_icon.png"
 custom_css = ["custom.css"]
 show_recent_posts = false
 
+# Get Involved Page and Dropdowns
 [[menu.main]]
 identifier = "involved"
 name = "Get Involved"
-url = "/contact/"
+url = "/get_involved/"
 weight = 1
 
 [[menu.main]]
-    parent = "involved"
-    name = "Socials"
-    url = "/get_involved/socials"
-    weight = 1
+parent = "involved"
+name = "Socials"
+url = "/get_involved/socials"
+weight = 1
 
 [[menu.main]]
 name = "Git"

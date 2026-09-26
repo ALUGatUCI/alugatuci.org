@@ -1,6 +1,5 @@
 +++
 title = 'Get Involved'
-menus = 'main'
 +++
 
 We're glad you're interested in joining the Anteater Linux User Group at UC Irvine! Below is a list of ways you can get involved
