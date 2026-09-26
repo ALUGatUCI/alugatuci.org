@@ -72,3 +72,9 @@ main {
   padding: 0.4rem 1rem;
   white-space: nowrap;
 }
+
+/* Home-button logo in the nav bar — change max-width to resize */
+.site-logo {
+  max-width: 8rem;
+  height: auto;
+}
