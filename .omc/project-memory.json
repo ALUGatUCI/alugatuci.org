@@ -1,0 +1,114 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1784766747679,
+  "projectRoot": "/Users/user/ALUG/alugatuci.org",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "assets",
+      "public",
+      "static"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "archetypes": {
+      "path": "archetypes",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1784766747672,
+      "keyFiles": [
+        "default.md"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1784766747673,
+      "keyFiles": []
+    },
+    "content": {
+      "path": "content",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1784766747673,
+      "keyFiles": [
+        "_index.md",
+        "about.md",
+        "contact.md",
+        "get_involved.md"
+      ]
+    },
+    "dist": {
+      "path": "dist",
+      "purpose": "Distribution/build output",
+      "fileCount": 4,
+      "lastAccessed": 1784766747673,
+      "keyFiles": [
+        "404.html",
+        "index.html",
+        "sitemap.xml"
+      ]
+    },
+    "layouts": {
+      "path": "layouts",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1784766747673,
+      "keyFiles": []
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 5,
+      "lastAccessed": 1784766747673,
+      "keyFiles": [
+        "404.html",
+        "index.html",
+        "index.xml",
+        "sitemap.xml"
+      ]
+    },
+    "static": {
+      "path": "static",
+      "purpose": "Static files",
+      "fileCount": 1,
+      "lastAccessed": 1784766747673,
+      "keyFiles": []
+    },
+    "themes": {
+      "path": "themes",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1784766747674,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
