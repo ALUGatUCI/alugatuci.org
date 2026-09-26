@@ -2,7 +2,7 @@
 {{- $external := strings.HasPrefix $url "http" -}}
 <div class="card step-card">
   <div class="card-info">
-    <span class="step-number">{{ .Get "number" }}</span>
+    {{ with .Get "number" }}<span class="step-number">{{ . }}</span>{{ end }}
     <p class="card-title">{{ .Get "title" }}</p>
     <p class="card-text">{{ .Inner | strings.TrimSpace | markdownify }}</p>
     {{ with $url }}

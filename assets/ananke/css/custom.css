@@ -254,3 +254,10 @@ main {
 .step-button:hover {
   background-color: rgba(255, 255, 255, 0.12);
 }
+
+/* Links inside card text (e.g. auto-linked emails) — match the card, not the theme's blue */
+.nested-links .card-text a {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
