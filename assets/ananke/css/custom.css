@@ -224,3 +224,33 @@ main {
 .social-button:hover {
   opacity: 0.85;
 }
+
+/* Numbered "how to get involved" cards on /get_involved/ — {{< step >}} shortcode */
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-bottom: 0.75rem;
+  border-radius: 50%;
+  background-color: #5865F2;
+  font-weight: 700;
+}
+
+.nested-links a.step-button,
+.step-button {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  transition: background-color 0.2s ease;
+}
+
+.step-button:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+}
