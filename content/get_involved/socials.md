@@ -2,7 +2,7 @@
 title = 'Socials'
 +++
 
-Follow along, chat with members, and check out what we're building.
+Follow along, chat with members, and stay up-to-date with the latest club news.
 
 ## Social Media
 
