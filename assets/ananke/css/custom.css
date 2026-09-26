@@ -29,11 +29,6 @@ body.bg-near-white {
   color: white;
 }
 
-/* Team photos on /about_us/ — sized uniformly */
-.page-about main img {
-  width: 350px;
-  height: auto;
-}
 
 .page-get_involved main img {
     width: 75px;
@@ -77,4 +72,79 @@ main {
 .site-logo {
   max-width: 8rem;
   height: auto;
+}
+
+/* Officer cards on /about/ — {{< officers >}} / {{< officer >}} shortcodes */
+.officer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0 3rem;
+  text-align: left;
+}
+
+.officer-card {
+  width: 13.5rem;
+  max-width: 100%;
+  background-color: #23233d;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.officer-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.officer-card .officer-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.officer-info {
+  padding: 1rem;
+}
+
+.officer-name {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.officer-role {
+  margin: 0.25rem 0 0.75rem;
+  font-size: 0.95rem;
+  opacity: 0.75;
+}
+
+.officer-profile summary {
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  list-style: none;
+}
+
+.officer-profile summary::-webkit-details-marker {
+  display: none;
+}
+
+.officer-profile dl {
+  margin: 0.75rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.officer-profile dt {
+  font-weight: 700;
+  margin-top: 0.5rem;
+}
+
+.officer-profile dd {
+  margin: 0;
+  opacity: 0.85;
 }

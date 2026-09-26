@@ -1,0 +1,16 @@
+<div class="officer-card">
+  <img class="officer-photo" src="{{ .Get "image" | urls.RelURL }}" alt="{{ .Get "name" }}" loading="lazy" />
+  <div class="officer-info">
+    <p class="officer-name">{{ .Get "name" }}</p>
+    <p class="officer-role">{{ .Get "role" }}</p>
+    <details class="officer-profile">
+      <summary>View profile &rarr;</summary>
+      <dl>
+        {{ with .Get "major" }}<dt>Major</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Get "distro" }}<dt>Preferred Distro</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Get "devices" }}<dt>Device(s)</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Get "funfact" }}<dt>Fun Fact</dt><dd>{{ . }}</dd>{{ end }}
+      </dl>
+    </details>
+  </div>
+</div>

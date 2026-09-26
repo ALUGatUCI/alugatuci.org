@@ -13,117 +13,27 @@ This is why members are encouraged to play an active role in the direction of th
 
 # Meet the Team
 
-## Founder & President
-![Chris Rios](/images/team/chris_r.webp)
+## Leadership
 
-**Name**
-
-Chris Rios
-
-**Major**
-
-Computer Science B.S.
-
-**Preferred Distro**
-
-CachyOS
-
-**Device(s)**
-
-System76 Adder WS, Steam Deck, and Macbook Air M4
-
-**Fun Fact**
-
-I was born left-handed, but raised right-handed
-
-## Vice-President & Event Coordinator
-![Kasra Moayedi](/images/team/kasra.jpg)
-
-**Name**
-
-Kasra Moayedi
-
-**Major**
-
-Computer Science and Engineering B.S.
-
-**Preferred Distro**
-
-Fedora
-
-**Device(s)**
-
-PC & Thinkpad
-
-**Fun Fact**
-
-I know 6 different programming languages!
-
-## Secretary
-![Mark Valkin](/images/team/mark_v.webp)
-
-**Name**
-
-Mark Valkin
-
-**Major**
-
-Computer Science B.S.
-
-**Preferred Distro**
-
-Fedora (Asahi)
-
-**Device(s)**
-
-M1 Mac
-
-**Fun Fact**
-
-I play a video game from 1987
-
-## Project Coordinator & Interim Treasurer
-![Albert Duong](/images/team/albert_d.jpg)
-
-**Name**
-
-Albert Duong
-
-**Major**
-
-Software Engineering B.S.
-
-**Preferred Distro**
-
-Arch Linux
-
-**Device(s)**
-
-Dell Latitude
-
-**Fun Fact**
-
-I have a small family of treecko plushies
-
-## Public Relations
-![Ikechi Ezekwe](/images/team/Ikechi.jpg)
-
-**Name**
-
-Ikechi Ezekwe
-
-**Major**
-
-Electrical Engineering, B.S.
-
-**Preferred Distro**
-
-Arch Linux
-
-**Device(s)**
-
-Thinkpad X1 Nano Gen 1 with Arch Linux (Sway as my WM)
-
-**Fun Fact**
-
-I'm a huge rhythm gamer with my favorite being sound voltex (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
+{{< officers >}}
+{{< officer name="Chris Rios" role="Founder & President" image="/images/team/chris_r.webp"
+    major="Computer Science B.S." distro="CachyOS"
+    devices="System76 Adder WS, Steam Deck, and Macbook Air M4"
+    funfact="I was born left-handed, but raised right-handed" >}}
+{{< officer name="Kasra Moayedi" role="Vice-President & Event Coordinator" image="/images/team/kasra.jpg"
+    major="Computer Science and Engineering B.S." distro="Fedora"
+    devices="PC & Thinkpad"
+    funfact="I know 6 different programming languages!" >}}
+{{< officer name="Mark Valkin" role="Secretary" image="/images/team/mark_v.webp"
+    major="Computer Science B.S." distro="Fedora (Asahi)"
+    devices="M1 Mac"
+    funfact="I play a video game from 1987" >}}
+{{< officer name="Albert Duong" role="Project Coordinator & Interim Treasurer" image="/images/team/albert_d.jpg"
+    major="Software Engineering B.S." distro="Arch Linux"
+    devices="Dell Latitude"
+    funfact="I have a small family of treecko plushies" >}}
+{{< officer name="Ikechi Ezekwe" role="Public Relations" image="/images/team/Ikechi.jpg"
+    major="Electrical Engineering, B.S." distro="Arch Linux"
+    devices="Thinkpad X1 Nano Gen 1 with Arch Linux (Sway as my WM)"
+    funfact="I'm a huge rhythm gamer with my favorite being sound voltex (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧" >}}
+{{< /officers >}}
