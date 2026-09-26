@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1784766747679,
+  "lastScanned": 1790402427869,
   "projectRoot": "/Users/user/ALUG/alugatuci.org",
   "techStack": {
     "languages": [],
@@ -40,7 +40,7 @@
       "path": "archetypes",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1784766747672,
+      "lastAccessed": 1790402427854,
       "keyFiles": [
         "default.md"
       ]
@@ -49,14 +49,14 @@
       "path": "assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1784766747673,
+      "lastAccessed": 1790402427855,
       "keyFiles": []
     },
     "content": {
       "path": "content",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1784766747673,
+      "lastAccessed": 1790402427855,
       "keyFiles": [
         "_index.md",
         "about.md",
@@ -64,33 +64,21 @@
         "get_involved.md"
       ]
     },
-    "dist": {
-      "path": "dist",
-      "purpose": "Distribution/build output",
-      "fileCount": 4,
-      "lastAccessed": 1784766747673,
-      "keyFiles": [
-        "404.html",
-        "index.html",
-        "sitemap.xml"
-      ]
-    },
     "layouts": {
       "path": "layouts",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1784766747673,
+      "lastAccessed": 1790402427855,
       "keyFiles": []
     },
     "public": {
       "path": "public",
       "purpose": "Public files",
-      "fileCount": 5,
-      "lastAccessed": 1784766747673,
+      "fileCount": 4,
+      "lastAccessed": 1790402427856,
       "keyFiles": [
         "404.html",
         "index.html",
-        "index.xml",
         "sitemap.xml"
       ]
     },
@@ -98,17 +86,24 @@
       "path": "static",
       "purpose": "Static files",
       "fileCount": 1,
-      "lastAccessed": 1784766747673,
+      "lastAccessed": 1790402427856,
       "keyFiles": []
     },
     "themes": {
       "path": "themes",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1784766747674,
+      "lastAccessed": 1790402427856,
       "keyFiles": []
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "layouts/_partials/site-navigation.html",
+      "accessCount": 1,
+      "lastAccessed": 1790402510741,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }

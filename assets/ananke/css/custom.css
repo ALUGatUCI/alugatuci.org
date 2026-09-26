@@ -44,3 +44,31 @@ body.bg-near-white {
 main {
   text-align: center;
 }
+/* Nav dropdowns (menu entries with a `parent` in hugo.toml) */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 10rem;
+  margin: 0;
+  padding: 0.5rem 0;
+  background-color: #1a1a2e;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown:focus-within .nav-dropdown-menu {
+  display: block;
+}
+
+.nav-dropdown-menu a {
+  padding: 0.4rem 1rem;
+  white-space: nowrap;
+}

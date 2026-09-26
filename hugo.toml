@@ -14,9 +14,16 @@ custom_css = ["custom.css"]
 show_recent_posts = false
 
 [[menu.main]]
+identifier = "involved"
 name = "Get Involved"
 url = "/contact/"
 weight = 1
+
+[[menu.main]]
+    parent = "involved"
+    name = "Socials"
+    url = "/get_involved/socials"
+    weight = 1
 
 [[menu.main]]
 name = "Git"
