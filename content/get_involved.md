@@ -9,7 +9,7 @@ We're glad you're interested in joining the Anteater Linux User Group at UC Irvi
 Our Discord is the main hub for club news, updates, and discussions, and the best place to say hi.
 {{< /step >}}
 {{< step number="2" title="Come to a Meeting" url="/#meeting-schedule" button="See the schedule" >}}
-This fall we meet **every Wednesday at 5 PM** in **Humanities Hall 112**. Just show up!
+This fall we meet **{{< meeting_time >}}**. Just show up!
 {{< /step >}}
 {{< step number="3" title="Build Something" url="https://git.alugatuci.org/" button="View our Git" >}}
 Browse our projects on Forgejo and contribute. Projects are mirrored on GitHub too.

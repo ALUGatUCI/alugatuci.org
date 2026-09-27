@@ -12,7 +12,7 @@ ALUG@UCI is UC Irvine's go-to community for Linux and open source — a hands-on
 
 # Meeting Schedule
 
-For the fall quarter of 2026, ALUG@UCI plans to meet every Wednesday at 5 PM in Humanities Hall 112
+For the fall quarter of 2026, ALUG@UCI plans to meet **{{< meeting_time >}}**.
 
 The last meeting each quarter (usually on week 9) will be an [installfest](https://en.wikipedia.org/wiki/Linux_user_group#Installfests) with food and a LAN party included! Check out our socials for the latest updates and upcoming events.
 
