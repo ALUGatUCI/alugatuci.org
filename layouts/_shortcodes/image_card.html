@@ -1,0 +1,10 @@
+{{- $color := .Get "color" | compare.Default "#5865F2" -}}
+{{- $textColor := .Get "text_color" | compare.Default "white" -}}
+<div class="image-card">
+  <div class="image-card-image-container">
+    <img src="{{ .Get "image" | urls.RelURL }}" alt="{{ .Get "name" }} logo" loading="lazy" />
+  </div>
+  <div class="card-info">
+    <p>{{ .Get "name" }}</p>
+  </div>
+</div>
