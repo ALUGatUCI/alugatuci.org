@@ -169,6 +169,7 @@ main {
 }
 
 .image-card-image-container {
+  flex: 0 0 13rem;
   padding: 8px;
 }
 
