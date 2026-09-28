@@ -27,6 +27,12 @@ url = "/get_involved/socials"
 weight = 1
 
 [[menu.main]]
+parent = "involved"
+name = "Projects"
+url = "/get_involved/projects"
+weight = 2
+
+[[menu.main]]
 name = "Git"
 url = "https://git.alugatuci.org/"
 weight = 2

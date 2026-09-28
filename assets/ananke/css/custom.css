@@ -160,6 +160,19 @@ main {
   text-align: left;
 }
 
+.image-card {
+  display: flex;
+  width: 35.5rem;
+  background-color: #23233d;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.image-card-image-container {
+  flex: 0 0 13rem;
+  padding: 8px;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -177,7 +190,7 @@ main {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
 }
 
-.social-logo {
+.social-logo, .image-card-image-container {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -185,7 +198,7 @@ main {
   background-color: #2d2d4d;
 }
 
-.social-logo img {
+.social-logo img, .image-card-image-container img {
   width: 5.5rem;
   height: 5.5rem;
   object-fit: contain;
