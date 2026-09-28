@@ -2,7 +2,7 @@
 title = 'Projects'
 +++
 
-ALUG@UCI projects is our [git server](https://git.alugatuci.org/) where we encourage UCI students to create and work on open-source projects.
+ALUG@UCI projects is our [Git server](https://git.alugatuci.org/) where we encourage UCI students to create and work on open-source projects.
 
 # What can I do?
 
@@ -11,11 +11,11 @@ ALUG@UCI projects is our [git server](https://git.alugatuci.org/) where we encou
     image="images/ALUG@UCI_icon.png"
     name="Create cool projects with fellow students" >}}
 {{< image_card 
-    image="https://cdn.freebiesupply.com/logos/large/2x/open-source-logo-png-transparent.png"
+    image="images/logos/open-source-logo.png"
     name="Get into open-source by contributing or starting a project" >}}
 {{< image_card 
-    image="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-    name="Develop practical skills, like reading code and using git" >}}
+    image="images/logos/git-logo.png"
+    name="Develop practical skills, like reading code and using Git" >}}
 {{< /cards >}}
 
 # Why open-source?
@@ -24,4 +24,4 @@ Open-source software (OSS) is the core of Linux and other software. It's known t
 
 Aside from personal development, open-source is a community service, bringing people together to accomplish a lot more. ALUG@UCI-hosted projects aims to be an open platform for student-led projects and to enhance the UCI student developer community.
 
-Also, projects on our git server do not have to be open-source, so feel free to use it as a regular git server for your side projects.
+Also, projects on our Git server do not have to be open-source, so feel free to use it as a regular Git server for your projects.
