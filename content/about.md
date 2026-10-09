@@ -17,7 +17,7 @@ This is why members are encouraged to play an active role in the direction of th
 
 {{< officers >}}
 {{< officer name="Chris Rios" role="Founder & President" image="/images/team/chris_r.webp"
-    major="Computer Science B.S." distro="CachyOS"
+    major="Computer Science B.S." distro="NixOS"
     devices="System76 Adder WS and Macbook Air M4"
     funfact="I was born left-handed, but raised right-handed" >}}
 {{< officer name="Kasra Moayedi" role="Vice-President & Event Coordinator" image="/images/team/kasra.jpg"
