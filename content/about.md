@@ -36,6 +36,10 @@ This is why members are encouraged to play an active role in the direction of th
     major="Mathematics B.S." distro="LMDE / Void Linux"
     devices="Thinkpad T14"
     funfact="I can solve a Rubik's cube" >}}
+{{< officer name="Ben Landon" role="IT Manager" image="/images/team/ben_l.jpg"
+    major="Computer Science B.S." distro="NixOS"
+    devices="Dell Pro Max 16 and PC (i9-9900k + RTX 4060 Ti)"
+    funfact="I own a floppy disk with C++ code from 1994" >}}
 {{< officer name="Albert Duong" role="Project Coordinator" image="/images/team/albert_d.jpg"
     major="Software Engineering B.S." distro="Arch Linux"
     devices="Dell Latitude"
